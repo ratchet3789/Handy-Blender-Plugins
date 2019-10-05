@@ -1,6 +1,7 @@
 # Handy Blender Plugins
 
-Tested on Blender 2.79b
+__Tested on Blender 2.79b__
+*Does not currently support 2.80*
 
 ![Look at it go!](https://media.giphy.com/media/U1govuIsbWfQEAejyP/giphy.gif)
 
